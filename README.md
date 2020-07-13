@@ -15,8 +15,8 @@ HTML5/CSS3, NET Core, C#, React, ES6, NodeJS, NoSQL, AWS, Azure, REST Design, Ar
 
 ### 💬 Favourite Quote:
 
-> _Nothing in this world can take the place of persistence. Talent will not: nothing is more common than unsuccessful people with talent. Genius will not; unrewarded genius is almost a proverb. Education will not: the world is full of educated derelicts. Persistence and determination alone are omnipotent. The slogan Press On! has solved and will always solve the problems of the human race.
-- Calvin Coolidge_
+Calvin Coolidge:
+> _Nothing in this world can take the place of persistence. Talent will not: nothing is more common than unsuccessful people with talent. Genius will not; unrewarded genius is almost a proverb. Education will not: the world is full of educated derelicts. Persistence and determination alone are omnipotent. The slogan Press On! has solved and will always solve the problems of the human race._
 
 ### 👍 Describe Yourself In 3 Words:
 Determined. Unyielding. Autodidact.
