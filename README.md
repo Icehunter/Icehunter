@@ -3,12 +3,11 @@ I mentor. I sing (poorly). I help bring out the best in my peers and myself thro
 ### ⚡ Fun facts:
 - I've lived in four provinces and driven across the country. I enjoy anime and MMORPG/JRPG's.
 - I write code and idiotic comments about random things.
-- Mentoring a "start fast" team on best engineering standards.
-- Architecting the next version of an e-commerce and application site using SSR, static generation and dynamic content resolution.
+- Architected the next version of an e-commerce and application site using SSR, static generation and dynamic content resolution. Lighthouse 95+
 - Machine learning is my new Overlord.
 - I was in charge of health informatics, scaling and "watchdog" services for MSN and various other services.
 - I am working with some awesome people right now to disrupt the status quo.
-- I've run a community application project for Final Fantasy XIV since 2010. Check it out here.
+- I've run a community application project for Final Fantasy XIV since 2010. Check it out [here](https://github.com/FFXIVAPP).
 
 ### 💻 Technologies:
 HTML5/CSS3, NET Core, C#, React, ES6, NodeJS, NoSQL, AWS, Azure, REST Design, Architecture and Isomorphic code.
