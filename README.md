@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/050a3592-a99a-4c19-b311-1038eeace046" />
+
 I mentor. I sing (poorly). I help bring out the best in my peers and myself through understanding and determination.
 
 ### ⚡ Fun facts:
